@@ -1,0 +1,12 @@
+#!bin/bash
+clear
+rm *.o
+rm *.out
+
+
+gcc -Wall -c fonctions_date.c
+gcc -Wall -c main_File.c
+
+gcc main_File.o fonctions_date.o -o main_File.out
+
+./main_File.out

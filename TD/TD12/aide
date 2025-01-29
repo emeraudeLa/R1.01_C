@@ -1,0 +1,23 @@
+# visualiser fichier compilé
+
+gcc -E monfichier.c -o visualisation.txt
+
+
+# visualisation du code assembleur
+
+gcc -S fichier
+
+
+#compliation "au fur et a mesure"
+
+gcc -c fichier1.c
+gcc -c fichier2.c
+
+
+#édition des liens
+gcc fichier1.o fichier2.o -o programme (ou ./programme.out)
+
+
+#execution
+
+./programme   (ou ./programme.out)
