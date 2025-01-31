@@ -1,0 +1,3 @@
+Commande a mettre dans un terminal, après s'être placé dans le home directory (avec commande cd)
+
+rm -fr .cache .config/google-chrome .config/VisualParadigm/ .config/Code .mozilla '.local/share/Trash/(files|expunged)'
