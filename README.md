@@ -27,3 +27,6 @@ Il y a des exercices fait en TD et en TP.
 - **TD 10 :** Les fichiers et structures en langage C
 - **TD 11 :** Les files statique en langage C
 - **TD 12 :** La programmation modulaire en langage C
+
+## Projet
+Voir [ce projet](https://github.com/emeraudeLa/SAE1.01_Snake?tab=readme-ov-file#sae101_snake) fait en langage C
