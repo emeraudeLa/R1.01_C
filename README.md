@@ -16,9 +16,7 @@ Il y a des exercices fait en TD et en TP.
 - **TP 5 :** Les procédures avec tout type de paramètre
 - **TP 6 :** Les fonctions
 - **TP 7 :** Les tableaux à une dimension
-- **TP 8 :** Partie1 : Les algos de recherche
-
-             Partie2 : Les tris
+- **TP 8 :** Partie1 : Les algos de recherche, Partie2 : Les tris
 - **TP 9 :** Les tableaux à 2 dimensions
 - **TP 10 :** Les structures cartésiennes
 - **TP 11 :** Les fichiers séquentiels de structures
