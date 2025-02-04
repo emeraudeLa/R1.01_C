@@ -24,7 +24,7 @@ Il y a des exercices fait en TD et en TP.
 - **TP 12 :** La pile et la file
 
 **TD**
-- **TD 1 à TD 9 :**Exercices de Pseudo code, les fichiers ne sont donc pas sur GitHub car fait sur papier
+- **TD 1 à TD 9 :** Exercices de Pseudo code, les fichiers ne sont donc pas sur GitHub car fait sur papier
 - **TD 10 :** Les fichiers et structures en langage C
 - **TD 11 :** Les files statique en langage C
 - **TD 12 :** La programmation modulaire en langage C
